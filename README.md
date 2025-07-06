@@ -1,7 +1,5 @@
 🛡️ Cybersecurity Portfolio – Shehzar Ali
 
-![TryHackMe Progress](https://tryhackme-badges.s3.amazonaws.com/ShehzarAli.png)
-
 This portfolio showcases my hands-on cybersecurity experience and learning across governance, risk, compliance (GRC), threat analysis, and security operations. All projects are based on real-world simulations, labs, and internship-style work.
 
 ---
