@@ -9,7 +9,7 @@ This portfolio showcases my hands-on cybersecurity experience and learning acros
 | Category | Project | Description |
 |----------|---------|-------------|
 | 🔐 TryHackMe Labs | [Governance & Regulation](./tryhackme/governance-and-regulation.md) | Intro to GRC frameworks like ISO 27001, NIST, and CIS Controls |
-| 🔐 TryHackMe Labs | [Cyber Defence Frameworks](./tryhackme/cyber-defence-frameworks.md) | Explores layered defence models and risk-based security planning |
+| 🔐 TryHackMe Labs | [Cyber Defence Frameworks](./tryhackme/tryhackme/cyber-defence-frameworks.md) | Explores layered defence models and risk-based security planning |
 | 🧩 KPMG Internship | [Social Engineering Investigation](./internships/kpmg/social-engineering-investigation.md) | Identified phishing emails and explained key indicators |
 | 🧩 KPMG Internship | [Digital Investigation (PCAP)](./internships/kpmg/digital-investigation.md) | Analyzed network packet capture (PCAP) to detect insider threats |
 
