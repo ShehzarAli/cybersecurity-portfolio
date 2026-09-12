@@ -1,37 +1,72 @@
-🛡️ Cybersecurity Portfolio – Shehzar Ali
+My Cybersecurity Portfolio – Shehzar Ali
 
-This portfolio showcases my hands-on cybersecurity experience and learning across governance, risk, compliance (GRC), threat analysis, and security operations. All projects are based on real-world simulations, labs, and internship-style work.
-
----
-
-📂 Contents
-
-| Category | Project | Description |
-|----------|---------|-------------|
-| 🔐 TryHackMe Labs | [Governance & Regulation](./tryhackme/governance-and-regulation.md) | Intro to GRC frameworks like ISO 27001, NIST, and CIS Controls |
-| 🔐 TryHackMe Labs | [Cyber Defence Frameworks](./tryhackme/cyber-defence-frameworks.md) | Explores layered defence models and risk-based security planning |
-| 🧩 KPMG Internship | [Social Engineering Investigation](./internships/kpmg/social-engineering-investigation.md) | Identified phishing emails and explained key indicators |
-| 🧩 KPMG Internship | [Digital Investigation (PCAP)](./internships/kpmg/digital-investigation.md) | Analyzed network packet capture (PCAP) to detect insider threats |
+Cybersecurity student at Macquarie University focused on Governance, Risk & Compliance (GRC), cyber risk, cybercrime, and security governance. This repository documents selected cybersecurity projects, practical learning, university work, and professional development as I build experience toward a career in cybersecurity risk and governance.
 
 ---
 
-🛠️ Tools & Skills Demonstrated
+### Overall Focus
 
-- Threat modelling (Kill Chain, MITRE)
-- Packet capture analysis using Wireshark
-- Phishing detection and email investigation
-- Governance frameworks (ISO 27001, NIST CSF)
-- Report writing and executive summaries
-- Basic SOC (Security Operations) processes
-
----
-
-📌 Upcoming Additions
-
-- 🔄 Deloitte Cyber Internship task  
-- 🔄 TryHackMe: MITRE & SOC Level 1 summaries  
-- 🔄 Blue Team & Threat Intel labs
+- Governance, Risk & Compliance (GRC)
+- Cyber Risk Assessment
+- Cybercrime
+- Security Governance & Policy
+- Cybersecurity Fundamentals
 
 ---
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/shehzar-ali-16177a352/) or feel free to explore the repo!
+### Projects 
+
+### Ransomware Policy & Cyber Risk Analysis
+
+Research project examining ransomware business models, double extortion, cryptocurrency-enabled cybercrime, and the organisational risks associated with ransomware incidents.
+
+The project evaluated ransomware payment bans and developed recommendations relating to incident reporting, cyber resilience, regulatory oversight, preventative security controls, and intelligence sharing.
+
+**Areas demonstrated:**
+- Cyber Risk Analysis
+- Governance, Risk & Compliance
+- Cybercrime Research
+- Security Policy
+- Risk-Based Decision Making
+
+### Cybersecurity Fundamentals & Threat Landscape Analysis
+
+Practical learning project developed through TryHackMe's Introduction to Cyber Security content.
+
+The project explored common cyber threats, core cybersecurity principles, organisational security risks, and fundamental defensive approaches.
+
+**Areas demonstrated:**
+- Cybersecurity Fundamentals
+- Threat Awareness
+- Security Principles
+- Organisational Risk
+
+---
+
+## Practical Learning
+
+### TryHackMe
+
+Completed practical cybersecurity learning covering introductory cybersecurity concepts, common threats, security principles, and defensive security fundamentals.
+
+Additional labs will be documented as they are completed.
+
+---
+
+## Skills Demonstrated
+
+- Governance, Risk & Compliance (GRC)
+- Cyber Risk Analysis
+- Cybercrime Research
+- Security Policy Analysis
+- Risk Assessment
+- Cybersecurity Fundamentals
+- Security Research
+- Professional Report Writing
+
+---
+
+## Links
+
+- [LinkedIn](https://www.linkedin.com/in/shehzar-ali-16177a352/)
+- [My Cybersecurity Portfolio](https://shehzarali-portfolio.notion.site/Hi-I-m-Shehzar-Ali-5163ca2443818362b8d7810fde36ac95)
