@@ -1,8 +1,6 @@
-My Cybersecurity Portfolio – Shehzar Ali
+## My Cybersecurity Portfolio – Shehzar Ali
 
 Cybersecurity student at Macquarie University focused on Governance, Risk & Compliance (GRC), cyber risk, cybercrime, and security governance. This repository documents selected cybersecurity projects, practical learning, university work, and professional development as I build experience toward a career in cybersecurity risk and governance.
-
----
 
 ### Overall Focus
 
